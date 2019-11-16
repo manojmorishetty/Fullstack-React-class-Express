@@ -2,6 +2,7 @@
 Basic chat application
 
 Installation
+-> git clone https://github.com/manojmorishetty/Modest-Tree-Fullstack-Test.git
 
 -> run command "npm install" to download client packages.
 
