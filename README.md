@@ -2,7 +2,7 @@
 Basic chat application
 
 Installation
--> git clone https://github.com/manojmorishetty/Modest-Tree-Fullstack-Test.git
+-> git clone https://github.com/manojmorishetty/Fullstack-React-class-Express.git
 
 -> run command "npm install" to download client packages.
 
